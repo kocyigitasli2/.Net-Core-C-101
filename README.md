@@ -1,2 +1,2 @@
-# .Net-Core-C-101
+# .NetCore-C#101
 C# Exercises/Projects
